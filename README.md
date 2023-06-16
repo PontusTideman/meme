@@ -39,8 +39,8 @@ to the terminal. This location can be overriden using the `-o` flag.
 * Run `go install github.com/PontusTideman/meme@latest`
 * Open up .zshrc or create a new one if you don´t have one.
 * Add 
-```export GOPATH="$HOME/go"
-export PATH=$PATH:$GOPATH/bin```
+`export GOPATH="$HOME/go"
+export PATH=$PATH:$GOPATH/bin`
 * Run `source ~/.zshrc` in terminal after.
 
 ## Automatic uploads
