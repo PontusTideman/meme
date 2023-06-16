@@ -36,7 +36,11 @@ to the terminal. This location can be overriden using the `-o` flag.
 ## Installation
 
 * [Install Go](https://golang.org/doc/install)
-* Run `go get -u -v github.com/nomad-software/meme`
+* Run `go install github.com/PontusTideman/meme@latest`
+* Open up .zshrc or create a new one if you don´t have one.
+* Add `export GOPATH="$HOME/go"
+export PATH=$PATH:$GOPATH/bin`
+* Run `source ~/.zshrc` in terminal after.
 
 ## Automatic uploads
 
