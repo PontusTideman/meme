@@ -7,9 +7,9 @@ import (
 	_ "image/png"
 
 	"github.com/fatih/color"
-	"github.com/nomad-software/meme/cli"
-	"github.com/nomad-software/meme/image"
-	"github.com/nomad-software/meme/output"
+	"github.com/PontusTideman/meme/cli"
+	"github.com/PontusTideman/meme/image"
+	"github.com/PontusTideman/meme/output"
 )
 
 func main() {
