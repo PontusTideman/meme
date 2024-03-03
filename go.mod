@@ -1,4 +1,4 @@
-module github.com/nomad-software/meme
+module github.com/PontusTideman/meme
 
 go 1.16
 
