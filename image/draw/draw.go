@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/fogleman/gg"
-	"github.com/nomad-software/meme/font"
-	"github.com/nomad-software/meme/output"
+	"github.com/PontusTideman/meme/font"
+	"github.com/PontusTideman/meme/output"
 )
 
 const (

@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/nomad-software/meme/cli"
-	"github.com/nomad-software/meme/image/stream"
-	"github.com/nomad-software/meme/output"
+	"github.com/PontusTideman/meme/cli"
+	"github.com/PontusTideman/meme/image/stream"
+	"github.com/PontusTideman/meme/output"
 )
 
 const (
