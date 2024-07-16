@@ -7,9 +7,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/fatih/color"
 	"github.com/PontusTideman/meme/data"
 	"github.com/PontusTideman/meme/output"
+	"github.com/fatih/color"
 )
 
 var (
@@ -129,6 +129,7 @@ func (opt *Options) PrintUsage() {
 	color.Cyan("    meme -i kirk-khan -t \"|khaaaan\"")
 	color.Cyan("    meme -i brace-yourselves -t \"Brace yourselves|The memes are coming!\"")
 	color.Cyan("    meme -i http://i.imgur.com/FsWetC0.jpg -t \"|China\"")
-	color.Cyan("    meme -i ~/Pictures/face.png -t \"Hello\"")
+	color.Cyan("    meme -i ~/Pictures/face.png -t \"Helloooooo\"")
+	color.Cyan("    meme -i ~/Pictures/Minions_Dance.gif -t \"|Bello\" -o Minions_Dance_cap.gif")
 	fmt.Println("")
 }
