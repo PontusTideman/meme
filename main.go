@@ -5,6 +5,7 @@ import (
 	_ "image/gif"
 	_ "image/jpeg"
 	_ "image/png"
+	_ "image/webp"
 
 	"github.com/fatih/color"
 	"github.com/PontusTideman/meme/cli"
